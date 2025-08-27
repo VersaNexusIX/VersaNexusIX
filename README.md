@@ -27,12 +27,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-<img src="https://github.com/VersaNexusIX/VersaNexusIX/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  
----
-
 ## 🌐 Connect With Me
 - 📫 Email: **besoklibur457@gmail.com**
 - Whatsapp : [@VersaNexusIX](https://wa.me/6285166984285)  
