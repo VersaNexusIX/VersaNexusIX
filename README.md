@@ -15,12 +15,12 @@
 
 ## Certificate
 <p align="center">
-  <img src="" alt="cert" />
-  <img src="" alt="cert" />
-  <img src="" alt="cert" />
-  <img src="" alt="cert" />
-  <img src="" alt="cert" />
-  <img src="" alt="cert" />
+  <img src="Img/DAVID DARYANTO - Intro to AI Ethics.png" alt="cert" />
+  <img src="Img/certificate-tphpbcnuderd-1756876673_page-0001.jpg" alt="cert" />
+  <img src="Img/doc_page-0001.jpg" alt="cert" />
+  <img src="Img/149614433 (1).jpg" alt="cert" />
+  <img src="Img/158020643.jpg" alt="cert" />
+  <img src="Img/153712113.jpg" alt="cert" />
 ---
 
 ## 📈 Most Used Languages
