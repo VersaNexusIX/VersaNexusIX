@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm David Daryanto (Versa NexusIX)</h1>
+<h1 align="center">👋 Hi, I'm David Daryanto </h1>
 
 <p align="center">
   🔧 OS Developer | 🤖 Machine Learning Enthusiast | 🌱 Open Source Builder  
@@ -13,11 +13,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## Certificate
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VersaNexusIX&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
+  <img src="" alt="cert" />
+  <img src="" alt="cert" />
+  <img src="" alt="cert" />
+  <img src="" alt="cert" />
+  <img src="" alt="cert" />
+  <img src="" alt="cert" />
 ---
 
 ## 📈 Most Used Languages
