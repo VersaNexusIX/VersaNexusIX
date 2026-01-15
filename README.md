@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="New Project 54 [DCA0590].png"/>
+  <img src="https://files.catbox.moe/2r3j2m.png"/>
 </div>
 
-### 🎀 Professional Summary
+### 🎀 Summary
 Software developer specializing in **Low-Level Systems** and **Applied Cryptography**. I am dedicated to exploring secure, efficient system architectures and developing modern, responsive web interfaces.
 
 - 🧪 **Core Expertise:** Cryptography Research & C++ System Programming.
