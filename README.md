@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=B2F2BB&secondaryColor=E5DBFF&height=200&section=header&text=VersaNexusIX%20✨&fontSize=50&animation=fadeIn&fontColor=6A5ACD" width="100%" />
+  <img src="New Project 54 [DCA0590].png"/>
 </div>
 
 ### 🎀 Professional Summary
