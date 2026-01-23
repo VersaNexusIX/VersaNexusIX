@@ -1,56 +1,72 @@
 <div align="center">
-  <img src="https://files.catbox.moe/2r3j2m.png"/>
+  <br/>
+  <img src="https://files.catbox.moe/2r3j2m.png" width="150" style="border-radius: 50px; border: 3px solid #A78BFA;"/>
+  
+  ### SYSTEM ARCHITECT | CRYPTOGRAPHY RESEARCHER | FULL-STACK ENGINEER
+  
+  *High-performance computing and secure system design.*
+  <br/>
+
+  [![GitHub followers](https://img.shields.io/github/followers/VersaNexusIX?style=for-the-badge&color=A78BFA&labelColor=2D2D2D)](https://github.com/VersaNexusIX)
+  [![License](https://img.shields.io/badge/Environment-Linux%20%2F%20Android-3B82F6?style=for-the-badge&labelColor=2D2D2D)](https://github.com/VersaNexusIX)
+
+  ---
 </div>
 
-### 🎀 Summary
-Software developer specializing in **Low-Level Systems** and **Applied Cryptography**. I am dedicated to exploring secure, efficient system architectures and developing modern, responsive web interfaces.
-
-- 🧪 **Core Expertise:** Cryptography Research & C++ System Programming.
-- 🎨 **Design Philosophy:** Integrating high-level technical functionality with a minimalist, pastel-themed visual aesthetic.
-- 🚀 **Objective:** Contributing to open-source projects focused on data privacy and robust security frameworks.
+### Professional Profile
+I am a software engineer focused on the intersection of **low-level systems programming** and **applied cryptography**. My research involves the development of secure architectures, memory-optimized system utilities, and cryptographic implementations. I combine this technical depth with modern full-stack engineering to build scalable, secure, and performant digital ecosystems.
 
 ---
 
-### 🛠️ Technical Competencies
+### Core Technical Stack
 
-**🎨 Frontend Engineering**
-> "Crafting elegant interfaces with optimal performance."
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) 🧸
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ✨
+#### 🔐 Systems & Applied Cryptography
+Expertise in low-level languages and security-first development for performance-critical applications.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,tensorflow&theme=dark" />
+</p>
 
-**🔐 Cryptography & Systems**
-> "Implementing security algorithms and low-level code optimization."
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) 🎀
-- ![Cryptography](https://img.shields.io/badge/Cryptography-E5DBFF?style=flat-square&logo=encryption&logoColor=4A4A4A) 🧪
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ☁️
+* **Low-Level Systems:** Specialized in C11 and C++ for system-level optimization and resource management.
+* **Cryptography:** Implementation of advanced encryption protocols, including tweakable block ciphers and sponge constructions.
+* **Security Research:** Focus on memory safety, data-at-rest encryption, and secure communication channels.
 
-**⚙️ Environment & Tools**
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 🐧
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 🌿
-- ![Termux](https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white) 💻
+#### 🌐 Full-Stack Architecture
+Engineering deterministic and type-safe web applications using modern frameworks.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=dark" />
+</p>
+
+* **Frontend Engineering:** Architecting responsive interfaces with React.js and TypeScript for high reliability.
+* **Backend Services:** Scalable server-side logic using Node.js and real-time data streaming.
+* **Markup & Styling:** Advanced semantic HTML5 and system-driven CSS architecture.
+
+#### 💾 Infrastructure & Platforms
+Managing data integrity and development environments across various ecosystems.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,mongodb,linux,vite&theme=dark" />
+</p>
+
+* **Database Management:** Skilled in relational modeling with Supabase (PostgreSQL) and NoSQL architecture via MongoDB.
+* **Dev Environments:** Native Linux administration and specialized Android-based development workflows.
+* **Workflow Tools:** High-efficiency development using GNU Nano, SPCK Editor, and Vite.
 
 ---
 
-### 📂 Research & Project Focus
-
-Currently, I am focusing my research on several specific areas, including:
-
-1.  **Encryption Algorithm Development:** Researching tweakable block ciphers and the implementation of sponge constructions using C++ and Go.
-2.  **System Security:** Performance optimization within resource-constrained environments.
-3.  **Modular UI/UX:** Developing reusable React components with a clean, system-driven design approach.
+### Research Objectives
+* **Cryptographic Performance:** Optimizing encryption algorithms for resource-constrained environments to minimize overhead.
+* **System Tooling:** Developing custom terminal utilities and shells to enhance productivity through integrated AI logic.
+* **Secure Data Structures:** Researching methods for efficient retrieval within fully encrypted database environments.
 
 ---
 
-### 📊 GitHub Statistics
+### Development Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VersaNexusIX&show_icons=true&theme=calm&border_radius=10&bg_color=F0FFF4&title_color=6A5ACD&icon_color=B2F2BB" alt="VersaNexusIX" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VersaNexusIX&show_icons=true&theme=transparent&title_color=A78BFA&text_color=4B5563&icon_color=818CF8&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VersaNexusIX&layout=compact&theme=transparent&title_color=A78BFA&text_color=4B5563&hide_border=true" width="49%" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VersaNexusIX&color=B2F2BB&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
-</div>
-
 ---
 
 <div align="center">
-  <sub>© 2026 VersaNexusIX/s
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=A78BFA&height=60&section=footer" width="100%"/>
+</div>
