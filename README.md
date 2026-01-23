@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://files.catbox.moe/2r3j2m.png" width="150" style="border-radius: 50px; border: 3px solid #A78BFA;"/>
+  <img src="https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/refs/heads/main/New%20Project%2063%20%5B2543A60%5D.png" width="490" style="border-radius: 50px; border: 3px solid #A78BFA;"/>
   
   ### SYSTEM ARCHITECT | CRYPTOGRAPHY RESEARCHER | FULL-STACK ENGINEER
   
