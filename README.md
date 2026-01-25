@@ -23,7 +23,7 @@ I am a software engineer focused on the intersection of **low-level systems prog
 #### 🔐 Systems & Applied Cryptography
 Expertise in low-level languages and security-first development for performance-critical applications.
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,tensorflow,haskell&theme=dark" />
 </p>
 
 * **Low-Level Systems:** Specialized in C11 and C++ for system-level optimization and resource management.
