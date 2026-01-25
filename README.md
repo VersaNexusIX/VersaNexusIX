@@ -62,9 +62,6 @@ I am a **Software Engineer** focused on the intersection of **low-level systems 
   <a href="#">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" alt="TensorFlow" style="animation: bounce 2s infinite 0.5s;"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Assembly-FF6B6B?style=for-the-badge&logo=asm&logoColor=white&labelColor=1F2937" alt="Assembly" style="animation: bounce 2s infinite 0.6s;"/>
-  </a>
 </div>
 
 <br/>
