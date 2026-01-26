@@ -60,6 +60,9 @@ I am a **Software Engineer** focused on the intersection of **low-level systems 
     <img src="https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white&labelColor=1F2937" alt="Haskell" style="animation: bounce 2s infinite 0.4s;"/>
   </a>
   <a href="#">
+    <img src="https://img.shields.io/badge/nim-5E5086?style=for-the-badge&logo=nim&logoColor=white&labelColor=1F2937" alt="Nim" style="animation: bounce 2s infinite 0.4s;"/>
+  </a>
+  <a href="#">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1F2937" alt="TensorFlow" style="animation: bounce 2s infinite 0.5s;"/>
   </a>
 </div>
