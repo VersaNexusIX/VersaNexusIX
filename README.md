@@ -75,7 +75,6 @@ I am a **Software Engineer** focused on the intersection of **low-level systems 
 - **Python:** Scripting, tools development, and machine learning utilities
 - **V Lang:** Modern systems programming with focus on simplicity and performance
 - **Haskell:** Functional programming for secure system design and formal verification
-- **Assembly:** Low-level optimization and hardware-specific implementations
 - **TensorFlow:** Machine learning integration for AI-enhanced security systems
 - **Cryptography:** Implementation of advanced encryption protocols, tweakable block ciphers, and sponge constructions
 - **Security Focus:** Memory safety, data encryption, and secure communication channels
