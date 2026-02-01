@@ -44,29 +44,6 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
   <p><strong>Low-Level Languages & Security-Focused Development</strong></p>
 </div>
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/C++-FFD6E8?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=FFF5F9" alt="C++" style="animation: bounce 2s infinite;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/C-E8D6FF?style=for-the-badge&logo=c&logoColor=white&labelColor=FFF5F9" alt="C" style="animation: bounce 2s infinite 0.1s;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-B4E7FF?style=for-the-badge&logo=python&logoColor=white&labelColor=FFF5F9" alt="Python" style="animation: bounce 2s infinite 0.2s;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/V%20Lang-D4F0E8?style=for-the-badge&logo=v&logoColor=white&labelColor=FFF5F9" alt="V Lang" style="animation: bounce 2s infinite 0.3s;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Haskell-E8B4FF?style=for-the-badge&logo=haskell&logoColor=white&labelColor=FFF5F9" alt="Haskell" style="animation: bounce 2s infinite 0.4s;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/nim-E8D6FF?style=for-the-badge&logo=nim&logoColor=white&labelColor=FFF5F9" alt="Nim" style="animation: bounce 2s infinite 0.4s;"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/TensorFlow-FFF4C6?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FFF5F9" alt="TensorFlow" style="animation: bounce 2s infinite 0.5s;"/>
-  </a>
-</div>
 
 <br/>
 
@@ -90,19 +67,19 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Forensics%20Automation-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4B4B4B" alt="Forensics Automation"/>
+    <img src="https://img.shields.io/badge/Forensics%20Automation-FF69B4?style=for-the-badge&logo=v&logoColor=white&labelColor=4B4B4B" alt="Forensics Automation"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Memory%20Analysis-FF1493?style=for-the-badge&logo=c&logoColor=white&labelColor=4B4B4B" alt="Memory Analysis"/>
+    <img src="https://img.shields.io/badge/Memory%20Analysis-FF1493?style=for-the-badge&logo=haskell&logoColor=white&labelColor=4B4B4B" alt="Memory Analysis"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Log%20Parsing-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4B4B4B" alt="Log Parsing"/>
+    <img src="https://img.shields.io/badge/Log%20Parsing-FF69B4?style=for-the-badge&logo=v&logoColor=white&labelColor=4B4B4B" alt="Log Parsing"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Artifact%20Recovery-FF1493?style=for-the-badge&logo=c&logoColor=white&labelColor=4B4B4B" alt="Artifact Recovery"/>
+    <img src="https://img.shields.io/badge/Artifact%20Recovery-FF1493?style=for-the-badge&logo=nim&logoColor=white&labelColor=4B4B4B" alt="Artifact Recovery"/>
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Network%20Analysis-FF69B4?style=for-the-badge&logo=python&logoColor=white&labelColor=4B4B4B" alt="Network Analysis"/>
+    <img src="https://img.shields.io/badge/Network%20Analysis-FF69B4?style=for-the-badge&logo=v&logoColor=white&labelColor=4B4B4B" alt="Network Analysis"/>
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/CLI%20Tools-FF1493?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=4B4B4B" alt="CLI Tools"/>
