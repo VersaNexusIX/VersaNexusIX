@@ -225,6 +225,7 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 ## 📊 **Development Analytics**
 
 <div align="center">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VersaNexusIX?cardType=github&theme=dracula&fontFamily=Armata&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VersaNexusIX&show_icons=true&theme=transparent&title_color=F0B4D4&text_color=8B7B8B&icon_color=F4B9D6&hide_border=true&bg_color=FFF5F9&include_all_commits=true&count_private=true)
 
