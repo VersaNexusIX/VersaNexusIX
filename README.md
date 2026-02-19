@@ -183,11 +183,11 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 
 ## 📊 GitHub Stats
 
-![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/radical/0-profile-details.svg)
 
-![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/radical/1-repos-per-language.svg)
 
-![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/radical/2-most-commit-language.svg)
 
 ## 📊 **Development Analytics**
 
