@@ -228,6 +228,8 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VersaNexusIX?cardType=github&theme=dracula&fontFamily=Armata&preferLogin=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VersaNexusIX&theme=cobalt)](https://git.io/streak-stats)
+
 ![VersaNexusIX's GitHub Stats](https://readme-stats-github.pages.dev/api?username=VersaNexusIX)
 
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=VersaNexusIX)
