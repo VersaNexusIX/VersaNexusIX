@@ -181,50 +181,11 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 
 ---
 
-## 🔬 **Research Interests & Learning Goals**
-
-<div align="center">
-
-```
-┌───────────────────────────────────────────────────┐
-│  DIGITAL FORENSICS TOOLS                          │
-│  • Build custom forensics investigation tools     │
-│  • Improve artifact extraction techniques         │
-│  • Enhance automation in forensic workflows       │
-│  • Develop memory analysis utilities              │
-│  • Create log parsing and analysis tools          │
-└───────────────────────────────────────────────────┘
-
-┌───────────────────────────────────────────────────┐
-│  CRYPTOGRAPHIC SYSTEMS                            │
-│  • Study encryption algorithms and protocols      │
-│  • Understand performance trade-offs              │
-│  • Explore optimization techniques                │
-└───────────────────────────────────────────────────┘
-
-┌───────────────────────────────────────────────────┐
-│  SYSTEM TOOLING & AUTOMATION                      │
-│  • Develop custom terminal utilities with         │
-│    integrated AI logic                            │
-│  • Create enhanced shell environments             │
-│  • Build productivity-focused workflow tools      │
-└───────────────────────────────────────────────────┘
-
-┌───────────────────────────────────────────────────┐
-│  SECURE DATA STRUCTURES                           │
-│  • Learn efficient data retrieval patterns        │
-│  • Understand encryption best practices          │
-│  • Explore emerging security concepts             │
-└───────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 📊 **Development Analytics**
 
 <div align="center">
+
+![Versa NexusIX profile views](https://u8views.com/api/v1/github/profiles/228176761/views/day-week-month-total-count.svg)](https://u8views.com/github/VersaNexusIX)
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VersaNexusIX?cardType=github&theme=dracula&fontFamily=Armata&preferLogin=true)
 
