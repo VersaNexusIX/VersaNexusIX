@@ -185,7 +185,7 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 
 <div align="center">
 
-![Versa NexusIX profile views](https://u8views.com/api/v1/github/profiles/228176761/views/day-week-month-total-count.svg)](https://u8views.com/github/VersaNexusIX)
+![Versa NexusIX profile views](https://u8views.com/api/v1/github/profiles/228176761/views/day-week-month-total-count.svg) 
 
 ![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VersaNexusIX?cardType=github&theme=dracula&fontFamily=Armata&preferLogin=true)
 
