@@ -1,20 +1,16 @@
-name: Update Language Statistics
+name: Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  update-stats:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: stefvuck/github-profile-language-analytics@v1.1.0
-        with:
-          github_token: ${{ secrets.STATS_TOKEN }}
-          visualization_types: "leaderboard"
-          output_path: "stats"
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
