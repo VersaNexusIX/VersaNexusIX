@@ -136,7 +136,11 @@
 
 ![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/moonlight/3-stats.svg)
 
-![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/moonlight/1-repos-per-language.svg) 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VersaNexusIX&show_icons=true&theme=radical)
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VersaNexusIX&layout=compact&theme=radical) 
 
 <br/><br/>
 
