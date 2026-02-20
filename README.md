@@ -183,6 +183,11 @@ I am a **Software Engineer** focused on **systems programming**, **digital foren
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=VersaNexusIX&layout=compact&theme=rose_pine&hide_border=true&border_radius=15" />
+</p>
+
 ![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/radical/0-profile-details.svg)
 
 ![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/radical/1-repos-per-language.svg)
