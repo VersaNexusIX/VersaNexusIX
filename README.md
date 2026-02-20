@@ -136,6 +136,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=VersaNexusIX&show_icons=true&hide_border=true&bg_color=FFF0F7&title_color=FFB3D9&text_color=CC85B3&icon_color=FFB3D9&border_radius=12" width="55%"/>
 &nbsp;
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VersaNexusIX&layout=compact&hide_border=true&bg_color=FFF0F7&title_color=FFB3D9&text_color=CC85B3&border_radius=12" width="38%"/>
 
 <br/><br/>
