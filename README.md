@@ -130,29 +130,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=VersaNexusIX&theme=pinkish&hide_border=true&background=FFF0F7&ring=FFB3D9&fire=FF85C2&currStreakLabel=FFB3D9&sideLabels=FFB3D9&currStreakNum=FF85C2&sideNums=FF85C2&dates=FFAAD4" width="80%"/>
-
-<a href="https://g.dev/versa">
-  <img src="https://img.shields.io/badge/Google%20Developer%20Group-FFB3D9?style=for-the-badge&logo=google&logoColor=white&labelColor=FFF0F7"/>
-</a>
-
-<a href="https://g.dev/versa">
-  <img src="https://img.shields.io/badge/Firebase%20Studio-FFDAC1?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFF0F7"/>
-</a>
-
-<a href="https://g.dev/versa">
-  <img src="https://img.shields.io/badge/NVIDIA%20AI%20Deploy-B5EAD7?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=FFF0F7"/>
-</a>
-
-<a href="https://g.dev/versa">
-  <img src="https://img.shields.io/badge/Google%20Cloud%20Innovator-C7CEEA?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FFF0F7"/>
-</a>
-
-<br/><br/>
-
-![](https://raw.githubusercontent.com/VersaNexusIX/VersaNexusIX/main/profile-summary-card-output/moonlight/3-stats.svg)
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=VersaNexusIX&show_icons=true&theme=radical)
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/VersaNexusIX?cardType=level-alternate&theme=radical&fontFamily=Actor&preferLogin=true)
 
 <br/>
 
