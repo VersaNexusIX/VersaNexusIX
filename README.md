@@ -182,6 +182,10 @@
   <img src="https://img.shields.io/badge/Google%20Developer-Verified-FFB3D9?style=for-the-badge&logo=google&logoColor=white&labelColor=FFF0F7"/>
 </a>
 
+<a href="https://learn.microsoft.com/en-us/users/veraimuttt/" target="_blank">
+  <img src="https://img.shields.io/badge/☁️_Microsoft%20Learn-Verified-FFB3D9?style=for-the-badge&labelColor=FFF0F7&logo=microsoft&logoColor=FFB3D9"/>
+</a>
+
 <br/>
 
 ![](https://img.shields.io/badge/OS-Linux%20%2F%20Android-A8D8EA?style=flat-square&logo=linux&logoColor=fff&labelColor=FFF0F7)
