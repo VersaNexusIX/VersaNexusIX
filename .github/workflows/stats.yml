@@ -2,7 +2,7 @@ name: Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -18,5 +18,10 @@ jobs:
 
       - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: VersaNexusIX
+          BRANCH_NAME: main
+          UTC_OFFSET: 7
+          AUTO_PUSH: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
