@@ -46,25 +46,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/x86__64%20ASM-C7CEEA?style=for-the-badge&logo=intel&logoColor=fff" height="34"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/C-A8D8EA?style=for-the-badge&logo=c&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/C++-B5EAD7?style=for-the-badge&logo=cplusplus&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Python-FFB7B2?style=for-the-badge&logo=python&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Haskell-C7CEEA?style=for-the-badge&logo=haskell&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Zig-FFDAC1?style=for-the-badge&logo=zig&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Nim-FFB7B2?style=for-the-badge&logo=nim&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/V%20Lang-B5EAD7?style=for-the-badge&logo=v&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Shell-E2F0CB?style=for-the-badge&logo=gnubash&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/ARM64%20ASM-FFDAC1?style=for-the-badge&logo=arm&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/x86__64%20ASM-C7CEEA?style=for-the-badge&logo=intel&logoColor=fff" height="34"/>
 </marquee>
 
 <br/>
