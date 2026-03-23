@@ -78,29 +78,6 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Linux-E2F0CB?style=for-the-badge&logo=linux&logoColor=fff" height="34"/>
 &nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/HTML5-FFB7B2?style=for-the-badge&logo=html5&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-A8D8EA?style=for-the-badge&logo=css3&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-FFDAC1?style=for-the-badge&logo=javascript&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-C7CEEA?style=for-the-badge&logo=typescript&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/React-B5EAD7?style=for-the-badge&logo=react&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Node.js-E2F0CB?style=for-the-badge&logo=node.js&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-FFB7B2?style=for-the-badge&logo=postgresql&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/MongoDB-B5EAD7?style=for-the-badge&logo=mongodb&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-A8D8EA?style=for-the-badge&logo=docker&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Supabase-C7CEEA?style=for-the-badge&logo=supabase&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Vite-FFDAC1?style=for-the-badge&logo=vite&logoColor=fff" height="34"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Linux-E2F0CB?style=for-the-badge&logo=linux&logoColor=fff" height="34"/>
 </marquee>
 
 </div>
