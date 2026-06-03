@@ -62,7 +62,7 @@ C O N T A C T   V E C T O R S
 
 <br/>
 
-[![Website](https://img.shields.io/badge/VERSAS.MY.ID-0f0f12?style=for-the-badge&logoColor=fafafa&logo=firefox)](https://versas.my.id)
+[![Website](https://img.shields.io/badge/VERSAS.MY.ID-0f0f12?style=for-the-badge&logoColor=fafafa&logo=firefox)](https://versanexusix.eu)
 [![GitHub](https://img.shields.io/badge/GITHUB-0f0f12?style=for-the-badge&logo=github&logoColor=fafafa)](https://github.com/VersaNexusIX)
 
 <br/>
